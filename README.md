@@ -1,16 +1,27 @@
-## Hi there 👋
+#  Hi👋
 
-<!--
-**Gyumin14/Gyumin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭경력사항
+- 2025.07~ 싸피 14기
+- 2023.11~2025.03 명화공업
 
-Here are some ideas to get you started:
+### 📫학력
+- 2022 조선대학교 졸업
+- 2016 진흥고등학교 졸업
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬자격증
+- 전기기사
+- 전기공사기사
+- 산업안전기사
+- 컴퓨터활용능력 1급
+- Toeic Speaking IM3
+
+
+### ⚡취미
+- 낚시
+
+
+- 💬 Ask me ...
+
+
+
+
